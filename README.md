@@ -9,3 +9,10 @@ this is also a new
 this is for adding in the main branch
 
 okay now this is badgit
+okay now i added git branch big_branch
+
+hello big brother
+
+i added a new line
+
+then again new line
